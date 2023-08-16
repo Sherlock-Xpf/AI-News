@@ -26,7 +26,8 @@
 2. [AI for Beginners【微软】](https://microsoft.github.io/AI-For-Beginners/)
 3. [Generative AI learning path【Google】](https://www.cloudskillsboost.google/journeys/118)
 4. [李宏毅2023春机器学习课程](https://www.bilibili.com/video/BV1TD4y137mP/?vd_source=34fa11a75da7287c55c8b7aafb16c935)
-5. 
+5. [沃顿商学院的Al启蒙系列课程](https://www.youtube.com/watch?v=t9gmyvf7JYohttps://www.bilibili.com/video/BV1sm4y1x789/)
+6. [Llama 2 学习资源大汇总](https://zhuanlan.zhihu.com/p/650166741)
 
 
 ## AI Model
