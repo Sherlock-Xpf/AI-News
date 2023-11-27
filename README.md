@@ -42,4 +42,6 @@
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 2. [MetaGPT](https://github.com/geekan/MetaGPT)：The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
-## AI Lesson
+## AI Workflow
+1. [Flowise](https://github.com/FlowiseAI/Flowise): About Drag & drop UI to build your customized LLM flow
+2. [Langflow](https://github.com/logspace-ai/langflow): Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
