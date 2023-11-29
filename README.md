@@ -19,7 +19,7 @@
 9. 【Zhihu】[大语言模型的涌现能力：现象与解释](https://zhuanlan.zhihu.com/p/621438653)
 10. 【Zhihu】[通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 11. 【Paper】[Levels of AGl: Operationalizing Progress on the Path to AGl](https://arxiv.org/abs/2311.02462)
-12. 【】[Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
+12. 【Paper】[Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 
 ## AI Prompt
 1. 【知乎】[硬核Prompt赏析：HuggingGPT告诉你Prompt可以有多“工程”](https://zhuanlan.zhihu.com/p/628491327)
