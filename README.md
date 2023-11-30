@@ -20,6 +20,8 @@
 10. 【Zhihu】[通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 11. 【Paper】[Levels of AGl: Operationalizing Progress on the Path to AGl](https://arxiv.org/abs/2311.02462)
 12. 【Paper】[Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
+13. 【Paper】[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
+14. 【Paper】[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 
 ## AI Prompt
 1. 【知乎】[硬核Prompt赏析：HuggingGPT告诉你Prompt可以有多“工程”](https://zhuanlan.zhihu.com/p/628491327)
@@ -43,7 +45,10 @@
 1. [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)：About
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 2. [MetaGPT](https://github.com/geekan/MetaGPT)：The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+3. [AutoAgent]Enabling Next-Gen LLM Applications via Multi-Agent Conversation (https://arxiv.org/abs/2308.08155)
+4. [AutoGen] Enabling Next-Gen LLM Applications via Multi-Agent Conversation( https://arxiv.org/abs/2308.08155) 
 
 ## AI Workflow
 1. [Flowise](https://github.com/FlowiseAI/Flowise): About Drag & drop UI to build your customized LLM flow
 2. [Langflow](https://github.com/logspace-ai/langflow): Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+3. 
